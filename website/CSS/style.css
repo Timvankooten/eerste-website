@@ -1,8 +1,14 @@
 body{
     
-background-color:rgb(218, 221, 45);
+background-color:rgb(255, 255, 255);
 color:rgb(0, 0, 0);
 font-family:fantasy;
 font-size:10px;
-line-heigt:3px;
+line-heigt:1.6em;
+}
+
+.foto{
+    border: 20px red solid;
+    padding: 5px blue solid;
+    margin: 5px yellow solid;
 }
