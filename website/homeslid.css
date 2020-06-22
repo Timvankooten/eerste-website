@@ -37,11 +37,11 @@ li{
 }
 
 li a{
-    dislplay: block;
+    display: block;
      background: rgb(255, 0, 0);
   color: rgb(255, 255, 255);
    text-align: center;
-  padding: 10px 16px;
+  padding: 6px 16px;
    text-decoration: none;
 }
 li a:hover {
@@ -50,7 +50,7 @@ li a:hover {
 }
 
 .balk{
-    padding: 6px 0px;
+    padding: 0px 0px;
 }
 
 .menubalk{
@@ -71,25 +71,43 @@ text-align: center;
 
 .textonderkaart{
      padding: 0px 0px;
-    text-align: center;
+    width: 50%;
+   
      font-size: 20px;
   line-height: 1.6em;
 }
 
 .grootform{
+    padding: 30px 30px;
+}
+
+.form{
+    padding: 7px 0px;
     
 }
 
 .knopje{
-dislplay: block;
-background: rgb(255, 0, 0);
-  color: rgb(255, 255, 255);
-   text-align: center;
-  padding: 10px 16px;
-   text-decoration: none;
+  padding: 7px 0px;
+  
+    
 }
 
-.knopje:hover {
-  background-color: #555;
-  color: white;
+.grootform input[type="submit"]{
+    background: rgb(255, 0, 0);
+  color: rgb(255, 255, 255);
+   padding: 7px 16px;
+   text-decoration: none;
+   border:none;
+
+}
+
+
+.form label{
+    display:block;
+}
+
+
+.form input[type="text"]{
+    padding: 8px;
+    width:100%;
 }
