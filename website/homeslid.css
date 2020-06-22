@@ -65,6 +65,14 @@ text-align: center;
 
 }
 .Kaart{
-      padding: 100px 0px;
+      padding: 100px 0px 0px 0px;
     text-align: center;
+}
+
+.textonderkaart{
+     padding: 0px 0px;
+    text-align: center;
+     font-size: 20px;
+  line-height: 1.6em;
+}
 }
