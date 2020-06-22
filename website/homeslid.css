@@ -2,7 +2,7 @@
     margin:0;
     padding:0;
 }
-
+@import url('https://fonts.googleapis.com/css?family=font-effect-grass');
 body
 {
   width: 100%;
@@ -11,7 +11,7 @@ body
   font-size: 16px;
   line-height: 1.6em;
   margin: 0;
-  font-family: Arial, helvetica, sans-serif;
+  font-family: grass, serif;
 }
 
 
