@@ -54,7 +54,7 @@ li a:hover {
 }
 
 .menubalk{
-    padding: 0px 0px;;
+    padding: 0px 0px;
 text-align: center;
 }
 .Home{
@@ -64,7 +64,7 @@ text-align: center;
 .text{
 
 }
-<!--googleMap{
-    width:100%;
-    height:400px;
-}-->
+.Kaart{
+      padding: 100px 0px;
+    text-align: center;
+}
